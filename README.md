@@ -9,6 +9,7 @@
 基于 [rcedit](https://github.com/electron/rcedit) 的图形化 Windows 资源编辑器，用于修改 EXE/DLL 文件的版本信息、图标、执行权限等。
 
 ### 功能
+<img width="1264" height="961" alt="2026-06-14_19-46-15" src="https://github.com/user-attachments/assets/14330cbe-3eb9-429f-ac5a-f6a30b195231" />
 
 - 编辑 12 个版本字符串字段（公司名称、文件描述、版权信息、原始文件名等）
 - 修改文件版本号和产品版本号
@@ -70,6 +71,7 @@ build.bat
 ## English
 
 A graphical Windows resource editor based on [rcedit](https://github.com/electron/rcedit), used to modify version information, icons, execution level and more in EXE/DLL files.
+<img width="1264" height="961" alt="2026-06-14_19-46-34" src="https://github.com/user-attachments/assets/e15214d9-1145-4179-af84-f6cdc2b96746" />
 
 ### Features
 
