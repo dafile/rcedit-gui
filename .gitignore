@@ -1,0 +1,25 @@
+# Build output
+*.exe
+*.obj
+*.o
+*.pdb
+*.ilk
+*.exp
+*.lib
+*.zip
+
+# ImGui config
+imgui.ini
+
+# IDE
+.vs/
+.vscode/
+*.user
+*.suo
+
+# Feedback screenshots (not source)
+反馈截图/
+
+# OS
+Thumbs.db
+Desktop.ini
